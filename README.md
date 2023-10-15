@@ -20,7 +20,7 @@
 </a>
 </br>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=cloudthewolf&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
+    <img src="github-readme-activity-graph.vercel.app/graph?username=cloudthewolf&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
 </a></br>
 
 </br>
